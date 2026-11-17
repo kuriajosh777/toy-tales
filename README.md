@@ -4,7 +4,7 @@ A React app that helps Andy keep track of his toys. It connects to a `json-serve
 
 ## Screenshot
 
-![Toy Tales screenshot](screenshot.png)
+![Toy Tales screenshot](toyUI.png)
 
 ## Features
 
@@ -44,8 +44,8 @@ You need [Node.js](https://nodejs.org/) (v18 or newer) and npm.
 
 ```bash
 # 1. Clone your fork
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/kuriajosh777/toy-tales.git
+cd toy-tales
 
 # 2. Install dependencies
 npm install
